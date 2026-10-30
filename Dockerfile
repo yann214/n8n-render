@@ -1,3 +1,3 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:2.46.2
 EXPOSE 5678
 
